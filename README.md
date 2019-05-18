@@ -2,8 +2,6 @@
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
-![Demo Screenshot](media/screenshot.jpg)
-
 ## [Live Demo](https://joalstein.github.io/godblessusps/)
 - The map is hosted by GitHub and can be found at https://joalstein.github.io/godblessusps/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1hglY7pnmqlu_VZuDdlQDse_KCVPKhFPG8r5a8JXaZKw/edit#gid=0
